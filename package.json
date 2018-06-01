@@ -1,0 +1,23 @@
+{
+  "name": "jacket",
+  "version": "1.0.0",
+  "description": "**Conditional Styles with Sass. Dress your CSS appropriately.**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisinteractive/jacket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisinteractive/jacket/issues"
+  },
+  "homepage": "https://github.com/dennisinteractive/jacket#readme"
+}
